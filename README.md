@@ -1,2 +1,2 @@
 # factorio-blueprints
-Blueprints for Factorio
+Zalasur's Blueprints for Factorio
